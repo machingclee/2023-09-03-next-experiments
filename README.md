@@ -1,2 +1,2 @@
 # next-experiments
-Just a simple template for future use
+Just a simple template for future use.
